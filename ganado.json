@@ -1,0 +1,37 @@
+{
+  "informacion_finca": {
+    "nombre": "Finca Familiar - Colombia",
+    "total_potreros": 7,
+    "encargado": "Familia Quintero"
+  },
+  "inventario_ganado": [
+    {
+      "id_tag": "COL-001",
+      "nombre": "Mariposa",
+      "tipo": "Vaca de Leche",
+      "raza": "Jersey",
+      "edad_meses": 32,
+      "potrero_actual": 1,
+      "peso_kg": 450,
+      "historial_sanitario": {
+        "ultima_vacuna_aftosa": "2024-01-15",
+        "proxima_dosis": "2024-07-15",
+        "estado_general": "Optimo"
+      }
+    },
+    {
+      "id_tag": "COL-002",
+      "nombre": "Trueno",
+      "tipo": "Toro",
+      "raza": "Brahman",
+      "edad_meses": 48,
+      "potrero_actual": 3,
+      "peso_kg": 720,
+      "historial_sanitario": {
+        "ultima_vacuna_aftosa": "2024-01-20",
+        "proxima_dosis": "2024-07-20",
+        "estado_general": "En Observacion"
+      }
+    }
+  ]
+}
